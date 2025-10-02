@@ -1,0 +1,13 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: aliceblue;
+}
+body{
+    background-color: crimson;
+}
+h1{
+    color: black;
+    text-decoration: dotted;
+    text-align: center;
+}
