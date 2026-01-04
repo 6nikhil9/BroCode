@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StarPattern",
+            "request": "launch",
+            "mainClass": "StarPattern",
+            "projectName": "brocode_41bfae49"
+        },
+        {
+            "type": "java",
             "name": "School",
             "request": "launch",
             "mainClass": "School",
